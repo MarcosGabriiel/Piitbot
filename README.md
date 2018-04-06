@@ -1,2 +1,5 @@
 # Piitbot
-Bot Telegram
+Bot administrador de grupos para telegrama
+
+Bot @Piitbot
+Detalhe
