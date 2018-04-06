@@ -1,0 +1,40 @@
+# Fontes compiladas de Lua
+luac.out
+
+# luarocks constroem arquivos
+* .src.rock
+*.fecho eclair
+* .tar.gz
+
+# Arquivos de objeto
+* .o
+* .os
+* .ko
+* obj
+*.duende
+
+# Cabeçalhos pré-compilados
+* .chch
+* .pch
+
+# Bibliotecas
+* .lib
+*.uma
+* .la
+* .lo
+* .def
+* .exp
+
+# Shared objects (inc. Windows DLLs)
+* .dll
+*.assim
+*.assim.*
+* .dylib
+
+# Executáveis
+*.exe
+*.Fora
+*.aplicativo
+* i * 86
+* .x86_64
+* .hex
