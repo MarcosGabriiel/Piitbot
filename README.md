@@ -1,5 +1,3 @@
 # Piitbot
 Bot administrador de grupos para telegrama
-
-Bot @Piitbot
-Detalhe
+Bot: @Piitbot / Duvidas: @MarcosGabriiel
